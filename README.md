@@ -1,3 +1,7 @@
+# ARCHIVE INFORMATION
+> [!IMPORTANT]
+> Due to lack of usage and maintenance, this repository has been archived.  
+> Please read the [repository archival FAQ](https://docs.corp.spoton.sh/developer/undocumented-repositories-archival-faq/) for more information!
 # Actions Runner Controller (ARC)
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6061/badge)](https://bestpractices.coreinfrastructure.org/projects/6061)
